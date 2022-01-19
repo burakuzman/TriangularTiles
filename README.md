@@ -1,7 +1,7 @@
 # TriangularTiles
 JavaScript Code to Create Triangular Tiles in SVG Format.
 This work was the result of a self-imposed coding challenge (also an excuse to learn JavaScript). 
-The visual inspiration came the simplicity and beauty of quarter circle Truchet tiles.
+The visual inspiration came from the simplicity and beauty of quarter circle Truchet tiles.
  
 For the noob coders like myself, here is how it works;
 The HTML file reads the JavaScript files, executes them, and renders an SVG on the web browser.
