@@ -13,5 +13,6 @@ The algorithm uses 3 base tile types;
 While constructing the tiling, the algorithm selects one of the 3 tiles randomly. For the first tile type, it also picks a random orientation (in 120 rotation increments).
 
 It is also possible to change the tile decorations by changing radii of the arcs used to decorate the tiles. The variable used for this change is called tile_edge_ratio in the file TriangularTiles.js
+
 ![fattiles](https://user-images.githubusercontent.com/95830862/150216046-6ab1c335-c83e-467d-b2ec-55f67cf75fcb.png)
 ![skinnytiles](https://user-images.githubusercontent.com/95830862/150216059-52863390-a607-40d5-bc9f-7e0ca8a39435.png)
