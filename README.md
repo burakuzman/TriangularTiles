@@ -7,6 +7,7 @@ The algorithm uses a base equilateral triangular tile, which it later decorates 
 ![Tiles1](https://user-images.githubusercontent.com/95830862/150213023-1cfdfa33-fe83-4898-bef8-30f660b9adfb.png)
 
 The algorithm uses 3 base tile types;
+
 ![tiletypes2](https://user-images.githubusercontent.com/95830862/150213811-be0cd9ec-e832-4084-947d-fe734875e0e3.png)
 
 
